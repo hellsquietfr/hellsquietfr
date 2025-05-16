@@ -2,6 +2,8 @@
 
 I'm Bryce and I am a front-end developer. I work on websites, Chrome Extensions, and more! I have a passion for becoming a full stack developer by the end of 2025. <br /> <br />
 
+If you need to contact me for anything, you can message be on Discord — <b>hellsquiet</b>.
+
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
